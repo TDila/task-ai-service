@@ -1,0 +1,9 @@
+title,description,priority,hours
+Prepare payroll,Monthly payroll processing for all departments,HIGH,6
+Fix UI bug,Minor CSS alignment issue,LOW,1
+Database backup,Take full production database backup,MEDIUM,3
+Client meeting,Discuss requirements with client,MEDIUM,2
+Implement authentication,Add JWT authentication to backend,HIGH,8
+Update documentation,Update README and API docs,LOW,1.5
+Deploy application,Deploy app to production server,HIGH,7
+Refactor code,Clean up unused services,MEDIUM,4
